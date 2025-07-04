@@ -15,10 +15,17 @@ The P.U.P.P.Y. Switch takes the opposite approach. It’s a fail-on switch, mean
 # Features and Specs
 
 -Weight: 6.5 grams (0.23oz)
+
 -Size: 18mm x 20mm x 10mm (plus 3.75mm copper stick-out)
+
 -Drive: 2.5mm hex, screw is captive and cannot escape the casing
+
 -Mounting: 2x threaded M2 inserts in case, 11mm center-to-center distance
+
 -Wiring: Copper tabs accept up to 16 AWG through-hole, larger gauges can lay flat or be partially through-hole
+
 -Voltage: Tested up to 6s LiHV (26.1v)
+
 -For Use In: Any beetleweight robot!
+
 -Switch disassembles easily for service!
