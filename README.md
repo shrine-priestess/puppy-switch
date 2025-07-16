@@ -1,3 +1,6 @@
+Now available at Just Cuz Robotics!
+https://justcuzrobotics.com/products/puppy-power-switch-fail-on-screw-switch?_pos=1&_sid=834575449&_ss=r
+
 # P.U.P.P.Y. Fail-On Power Switch
 
 The P.U.P.P.Y. Switch (the Proven Unit for Perpetual Power, Y’know?) is the first commercially available fail-on switch designed for beetleweight combat robots! It’s battle-tested and built to keep your bot powered on through even the toughest matches. Designed by Kezia Skye, builder and driver of Chainsaw Kitty, this is the same switch that powered Kitty to victory at NHRL’s April 2025 event, where she claimed her Golden Dumpster. Each switch is assembled by hand and tested before shipping to ensure it’s ready for combat.
