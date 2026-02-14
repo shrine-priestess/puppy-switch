@@ -27,7 +27,7 @@ The P.U.P.P.Y. Switch takes the opposite approach. It’s a fail-on switch, mean
 
 -Wiring: Copper tabs accept up to 16 AWG through-hole, larger gauges can lay flat or be partially through-hole
 
--Voltage: Tested up to 6s LiHV (26.1v)
+-Voltage: Tested up to 8s LiHV (34.8v). Added precharge recommended for over 4s.
 
 -For Use In: Any beetleweight robot!
 
